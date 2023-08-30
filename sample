@@ -11,7 +11,7 @@
             "stayY": 5,
             "vacation": 12,
             "startDate": "20 de Sep 2018",
-            "perf":0.76,
+            "perf":0.76
         },
         {
             "ID": 5321,
@@ -24,7 +24,7 @@
             "stayY": 4,
             "vacation": 12,
             "startDate": "20 de Sep 2019",
-            "perf":0.90,
+            "perf":0.90
         },
         {
             "ID": 5356,
@@ -37,7 +37,7 @@
             "stayY": 6,
             "vacation": 12,
             "startDate": "20 de Sep 2017",
-            "perf":0.76,
+            "perf":0.76
         },
         {
             "ID": 5390,
@@ -50,7 +50,7 @@
             "stayY": 3,
             "vacation": 6,
             "startDate": "20 de Sep 2020",
-            "perf":1.0,
+            "perf":1.0
         }
     ]
 }
