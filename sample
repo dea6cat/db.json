@@ -2,7 +2,7 @@
     "data": [
         {
             "ID": 5921,
-            "name": "Carla María Rodríguez Sant…",
+            "name": "Carla María Rodríguez Santos",
             "image": "assets/Images/Profile_pictures/Carla.jpg",
             "subtitle": "Asistente Administrativa",
             "department": "Admin",
@@ -15,7 +15,7 @@
         },
         {
             "ID": 5321,
-            "name": "Miguel Ángel Jiménez Sánc…",
+            "name": "José Luis Abreu Martínez",
             "image": "assets/Images/Profile_pictures/Miguel.jpg",
             "subtitle": "Ejecutivo de Cuentas",
             "department": "Finanzas",
@@ -28,7 +28,7 @@
         },
         {
             "ID": 5356,
-            "name": "Carlos Alberto García Gonz…",
+            "name": "Martin Díaz Castillo",
             "image": "assets/Images/Profile_pictures/carlos.jpg",
             "subtitle": "Analista de Sistemas",
             "department": "QA",
