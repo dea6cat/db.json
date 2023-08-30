@@ -1,0 +1,53 @@
+{
+  data:[
+        {
+					"ID":5921
+          "name": "Carla María Rodríguez Sant…",
+          "image": "assets/Images/Profile_pictures/Carla.jpg",
+          "subtitle": "Asistente Administrativa",
+					"department":"Admin",
+					"notifaciones":4,
+		 			"issues":8,
+		 			"stayY":5,
+					"vacation": 12,
+		 			"startDate":"20 de Sep 2018"
+		 
+        },
+        {
+					"ID":5321
+          "name": "Miguel Ángel Jiménez Sánc…",
+          "image": "assets/Images/Profile_pictures/Miguel.jpg",
+          "subtitle": "Ejecutivo de Cuentas",
+					"department":"Finanzas",
+					"notifaciones":8,
+		 			"issues":2,
+		 			"stayY":4,
+					"vacation": 12,
+		 			"startDate":"20 de Sep 2019"
+        },
+        {	
+					"ID":5356
+          "name": "Carlos Alberto García Gonz…",
+          "image": "assets/Images/Profile_pictures/carlos.jpg",
+          "subtitle": "Analista de Sistemas",
+					"department":"QA",
+					"notifaciones":3,
+		 			"issues":7,
+		 			"stayY":6,
+					"vacation": 12,
+		 			"startDate":"20 de Sep 2017"
+        },
+        {
+					"ID":5390
+          "name": "Paula Daniela Sánchez Feliz",
+          "image": "assets/Images/Profile_pictures/paulina.jpg",
+          "subtitle": "Líder de Proyectos",
+					"department":"Admin",
+					"notifaciones":1,
+		 			"issues":3,
+		 			"stayY":3,
+					"vacation": 6,
+		 			"startDate":"20 de Sep 2020"
+        },
+     ],
+}
