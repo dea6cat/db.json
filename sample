@@ -1,5 +1,18 @@
 {
     "data": [
+{
+            "ID": 5981,
+            "name": "Margot Rodríguez Santos",
+            "image": "assets/Images/Profile_pictures/Carla.jpg",
+            "subtitle": "Asistente desarrollo",
+            "department": "Dev",
+            "notifaciones": 4,
+            "issues": 3,
+            "stayY": 5,
+            "vacation": 7,
+            "startDate": "24 de Sep 2018",
+            "perf":0.85
+        },
         {
             "ID": 5921,
             "name": "Carla María Rodríguez Santos",
